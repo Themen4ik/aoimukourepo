@@ -148,5 +148,19 @@ MD5sum: cc6961e7809026f7a49c102a395509e4
 SHA1: a294d55e74a07a4aef183eff7aa09fe6d092908c
 SHA256: f8a4b362aca4dafa42b14de3cee1873c607c2f8863c7381c26919afb0c0e0705
 
+Package: xyz.cypwn.zeppelinreborn
+Name: ZeppelinReborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Description: Gifs near clocks
+Maintainer: Hitori
+Author: Hitori
+Section: Tweaks
+Depends: 
+Filename: debs/xyz.cypwn.zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 3134962
+MD5sum: 5B66BB679251A03DC2892D7D1F8FB80B
+SHA1: 63292C094D28B3B58DBF573869BAC093CF7A37C6
+SHA256: 7561A533E2E929F7BD6C93284D2594BDB06DA22F3DA3BBE9765DFDC6C72931D2
 
 
