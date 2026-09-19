@@ -1,3 +1,73 @@
+Package: com.cureux.cc26
+Version: 0.4.9.9b
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/xyz.cypwn.cc26_0.4.9.9b_iphoneos-arm64.deb
+Size: 41606
+MD5sum: ef19b57030421173bcd16b9bfa94591e
+SHA1: bc15e7741000c7f6feef9eee1e4a700335500f47
+SHA256: 69364b065391d83a640cb46a6f04580a856f6ac41770f3a5910b8f6fbca3cea2
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Depiction: https://repo.cypwn.xyz/depiction/3279
+Icon: https://repo.cypwn.xyz/packages/CC26-Rootless/icon.png
+Name: CC26
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3279
+
+Package: com.ivintagelover.solidglassrl
+Version: 27.0
+Architecture: iphoneos-arm64
+Maintainer: MacVerse
+Conflicts: com.ivintagelover.solidglass27
+Filename: ./debs/com.ivintagelover.solidglass_rootless.deb
+Size: 54195328
+MD5sum: ced94a3fc438649734fbd700b343ba96
+SHA1: 9244965027c161456f6508103aa51b13e98ee5b9
+SHA256: 0819baccfe8cbf3c37e9da5a13fea4db448a595ff312c421255643fc4d5cf098
+Section: Themes
+Description: iOS 27, 26, and 18 icons for older devices.
+Author: MacVerse
+Name: Solid Glass Rootless
+
+Package: com.mtac.vitreux
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 7028
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.mtac.vitreux_1.3_iphoneos-arm64.deb
+Size: 5922092
+MD5sum: d8c3604a088edb8bd088f44a0fc08688
+SHA1: 9b950c79faff00fe120323bad10bb15af7684d6a
+SHA256: 30826472c39415105c9aba27f49a2902e84771a10be2fa92e4fb7117b556df88
+Section: Tweaks
+Description: A recreation of Liquid Glass
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Name: Vitreux
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
+Package: com.nahtedetihw.gesturesxv
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debs/com.nahtedetihw.gesturesxv_1.6_iphoneos-arm64.deb
+Size: 2162250
+MD5sum: bb3616e0fe4ee30c20101d4adabbd8e1
+SHA1: 3bc01f69ed79827cc99d353078bac52ea065c9f8
+SHA256: 5e34b44fdfaa94be436d68cd96f90935b0bc665db7cc832a1b791193ef2b1c03
+Section: Tweaks
+Description: iPhone X gestures brought to older iPhones compatible with iOS 15
+Author: Ethan Whited
+Name: GesturesXV
+
 Package: com.p2kdev.tapticboard
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -52,6 +122,22 @@ Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard
 
+Package: com.spark.snowboard.allextensions
+Version: 1.0.1~Beta3
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 0
+Depends: com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.effects, com.spark.snowboard.fonts, com.spark.snowboard.masks, com.spark.snowboard.pagedots, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.statusbar, com.spark.snowboard.ui, com.spark.snowboard.sounds, com.spark.snowboard.presetextension, com.spark.snowboard.labels
+Filename: ./debs/1.0.1~Beta3.deb
+Size: 658
+MD5sum: 1729698f7443ea6a336defbc3fa96aa0
+SHA1: 9289e52b7e72f6037263c7e8b145586227b41d10
+SHA256: a1f66051da723ec338c45b877cd9c3778d229fa14c9ad05252d72ef4bd3a9692
+Section: SnowBoard Extensions
+Description: Installs the main SnowBoard Extensions
+Author: Spark
+Name: SnowBoard Extension Pack
+
 Package: com.spark.snowboard.fonts
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -87,6 +173,25 @@ Description: UI Extension for SnowBoard
 Author: Spark
 Name: SnowBoard UI Extension
 
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.2_iphoneos-arm.deb
+Size: 56438
+MD5sum: 0cd8aefa2c1b228df005063df6d08f40
+SHA1: ff7ac3a330fd84646c2eae8983fb091df284b5c3
+SHA256: 2789cf0b15872752eb38419990b6f977d54ca26f116615d37c210e4cf4357a0d
+Section: Tweaks
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
 Package: com.yan.anitime
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -121,6 +226,44 @@ Description: Battery indicator, but cute
 Author: Traurige & neilsardesai <hello@traurige.dev>
 Name: BatteryBuddy
 
+Package: xyz.cypwn.aimpro
+Version: 1.1.3k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/xyz.cypwn.aimpro_1.1.3k_iphoneos-arm64.deb
+Size: 2871008
+MD5sum: 3cbbea6924d56edcf085dba4b4602aab
+SHA1: 4c9a7744824549d69084893f1e60ef52887fb95b
+SHA256: cf185b09751a4e64012ae8577f42eb78e6a5689ea8fbe281b784ba18ec80160f
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+Depiction: https://repo.cypwn.xyz/depiction/3301
+Icon: https://repo.cypwn.xyz/packages/AIMPro-Rootless/icon.png
+Name: AIM Pro
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3301
+
+Package: xyz.cypwn.aquaboardx
+Version: 2.0-58k
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.limneos
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: ./debs/xyz.cypwn.aquaboardx_2.0-58k_iphoneos-arm.deb
+Size: 170448
+MD5sum: 7dc7045990eecaf3bd071465e0d3ae45
+SHA1: 7a3a0c39fac31f8ba2748d01a26c4466e0c304bd
+SHA256: 197d9af647cb59dda96c8206fb403cc7c4a50b61d7edd474ada84130b214990b
+Section: Tweaks
+Description: Amazing Water Effects On SpringBoard
+Author: Elias Limneos
+Depiction: https://repo.cypwn.xyz/depiction/1071
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/aquaboard.png
+Name: AquaBoard XS (iOS 11 to 16)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1071
+
 Package: xyz.cypwn.classicplayer
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -139,6 +282,24 @@ Depiction: https://repo.cypwn.xyz/depiction/1735
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/classicplayer.png
 Name: ClassicPlayer
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1735
+
+Package: xyz.cypwn.dynamicpeninsula
+Version: 0.6-80k
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), xyz.cypwn.limneos
+Filename: ./debs/xyz.cypwn.dynamicpeninsula_0.6-80k_iphoneos-arm.deb
+Size: 514300
+MD5sum: 5981b460adefbf4dedf2e6e2cdd30dea
+SHA1: ca30c7ae05beba0d1abcb821f8190e40b69caec7
+SHA256: ba13d7d96ea85ac4b59844362fef790d07922901aed53778d2756ccb78f7b0da
+Section: Tweaks
+Description: Dynamic Island on your notch
+Author: Elias Limneos
+Depiction: https://repo.cypwn.xyz/depiction/1122
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/dynamicpeninsula.png
+Name: DynamicPeninsula
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1122
 
 Package: xyz.cypwn.jellyfish
 Version: 1.6.5
