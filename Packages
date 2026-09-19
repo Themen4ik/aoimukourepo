@@ -97,7 +97,7 @@ Maintainer: CyPwn
 Author: Yan
 Section: Theme
 Depends: mobilesubstrate, preferenceloader, com.ginsu.comet, dev.theos.orion14
-Filename: debs/xyz.cypwn.anitime_1.0.2k_iphoneos-arm64.deb
+Filename: debs/com.yan.anitime_1.0.2k_iphoneos-arm64.deb
 Size: 618900
 MD5sum: D4686C3205CBB5945B0CC1357B3732CB
 SHA1: 8C3E0D1DB1A0A1B102F4BB8CEDF56E13C61F926A
