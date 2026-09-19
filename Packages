@@ -87,6 +87,22 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.
 Name: TapticBoard
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
 
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpgfarm.a-font.deb
+Size: 494572
+MD5sum: 01b1c8b7b6552093d04de9f5be50ff65
+SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
+SHA256: 90bd627e7bb1eed784f42e974d4faec3810953292bccf3c71103ff641e576d41
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Font
+
 Package: com.spark.ccmusicartwork
 Version: 2.4.0-rootless
 Architecture: iphoneos-arm64
