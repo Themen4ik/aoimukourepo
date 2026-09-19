@@ -88,20 +88,20 @@ MD5sum: 5309f7e21fca87baeb6adcc919990a5d
 SHA1: 8083c2b87a1e275b50ac80b2c8f403bf682bc370
 SHA256: a27de6afde56637e9a2c3e4fb0f6b774756137c83a7f75403235c4526686714b
 
-Package: xyz.cypwn.anitime
+Package: com.yan.anitime
 Name: AniTime
-Version: 1.0.1k
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Description: Cute anime girls on lockscreen clocks
 Maintainer: CyPwn
 Author: Yan
 Section: Theme
 Depends: mobilesubstrate, preferenceloader, com.ginsu.comet, dev.theos.orion14
-Filename: debs/xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
-Size: 598126
-MD5sum: 47096937B99C83703DFA6611D00E5A8E
-SHA1: 32CF4A5E687643489C3B06E7A5C1236868CE1726
-SHA256: 73B144E4C7D0FECE45E0BEF531B4B2B2B12DFDE5479564A659EAF26F5E1EC699
+Filename: debs/com.yan.anitime_1.0.3_iphoneos-arm64.deb
+Size: 387694
+MD5sum: 6A31122AF0AD58FE2BD80CABE8AFD53A
+SHA1: 4ABD51C931B4A2BDEB928AF3742D947767812C0
+SHA256: AAD05EFE34F8CDCF45D67D21A7C302A4D2063A97A53C04E8932C7FADEBCF8706
 
 Package: xyz.skitty.ersatz
 Name: Ersatz
