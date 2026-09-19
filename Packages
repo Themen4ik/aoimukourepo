@@ -88,11 +88,11 @@ MD5sum: 5309f7e21fca87baeb6adcc919990a5d
 SHA1: 8083c2b87a1e275b50ac80b2c8f403bf682bc370
 SHA256: a27de6afde56637e9a2c3e4fb0f6b774756137c83a7f75403235c4526686714b
 
-Package: xyz.cypwn.anitime
+Package: com.yan.anitime
 Name: AniTime
 Version: 1.0.2k
 Architecture: iphoneos-arm64
-Description: cute anime girls on lockscreen clocks
+Description: Cute anime girls on lockscreen clocks
 Maintainer: CyPwn
 Author: Yan
 Section: Theme
