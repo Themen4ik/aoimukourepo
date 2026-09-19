@@ -62,11 +62,11 @@ Package: xyz.cypwn.jellyfish
 Name: JellyFish
 Version: 1.6.5
 Architecture: iphoneos-arm64
-Description: Nice lockscreen customization for Snowboard
+Description: Nice lockscreen customization
 Maintainer: CyPwn
 Author: Justin Proulx and Ayden Panhuyzen
 Section: Theme
-Depends: com.anemonetheming.anemone, com.spark.snowboard
+Depends: ws.hbang.alderis
 Filename: debs/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
 Size: 117178
 MD5sum: b77dee13d03d68f464e42bfd4e25f915
