@@ -225,6 +225,23 @@ Author: yan
 Icon: https://yandevelop.github.io/assets/icons/anitime/icon.png
 Name: AniTime
 
+Package: com.zx02.frame.rootless
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Zerui Chen
+Installed-Size: 4284
+Depends: mobilesubstrate,firmware (>= 13.9.9)
+Conflicts: com.zx02.frame.ios13,com.zx02.frame.ios14
+Filename: ./debs/com.zx02.frame.rootless_3.0.1_iphoneos-arm64.deb
+Size: 2338512
+MD5sum: 194929cc7b9f517e02243bc08c982c2f
+SHA1: 61d53417742a6d7c62868cf207f10a0771254265
+SHA256: ac667f23e41af57d2d69a2cc2efec592deaf4773aa0c6fb3c146fcebdbc795b2
+Section: Tweaks
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen
+Name: Frame (Rootless iOS 14+)
+
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
 Architecture: iphoneos-arm64
