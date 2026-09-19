@@ -242,6 +242,23 @@ Description: Battery indicator, but cute
 Author: Traurige & neilsardesai <hello@traurige.dev>
 Name: BatteryBuddy
 
+Package: dev.traurige.eneko
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/dev.traurige.eneko_1.4_iphoneos-arm64.deb
+Size: 29412
+MD5sum: 5f8443d3c14f4aae25ca21afcfbbd111
+SHA1: d6058f80495ba85ed95dbe2fdd16b157cd9a0cdc
+SHA256: 4de3760346d7c2baed4f200f38c60e1d2ae735406ec62b27ed3f45f9831f1eb1
+Section: Tweaks
+Description: Live wallpapers for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Eneko
+
 Package: xyz.cypwn.aimpro
 Version: 1.1.3k
 Architecture: iphoneos-arm64
