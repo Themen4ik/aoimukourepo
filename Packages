@@ -301,6 +301,24 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/dynamicpeninsula.png
 Name: DynamicPeninsula
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1122
 
+Package: xyz.cypwn.gravitation
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/xyz.cypwn.gravitation_0.1.0_iphoneos-arm64.deb
+Size: 113318
+MD5sum: 6dd237996e0dc6ed3c9c47b472a4321b
+SHA1: eda5e7d63b2d9c6ad32eec5aff20da50aab6d359
+SHA256: a251b6b3684511707352365284db562ffac71ac50cb5d66bcfe376b60b251037
+Section: Tweaks
+Description: Shake your phone to unhinge your icons!
+Author: Kritanta
+Depiction: https://repo.cypwn.xyz/depiction/2250
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
+Name: Gravitation
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2250
+
 Package: xyz.cypwn.jellyfish
 Version: 1.6.5
 Architecture: iphoneos-arm64
