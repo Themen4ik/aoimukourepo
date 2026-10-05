@@ -19,6 +19,24 @@ Icon: https://repo.cypwn.xyz/packages/CC26-Rootless/icon.png
 Name: CC26
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3279
 
+Package: com.evgeniy.homescreen18
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: evgeniy
+Installed-Size: 99024
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.ellekit | mobilesubstrate
+Filename: ./debs/com.evgeniy.homescreen18_1.0_iphoneos-arm64.deb
+Size: 87771116
+MD5sum: 88a9e0fc4a0c8bb6a58fcef1b7d41a7d
+SHA1: 96cef471c320654ba8ce588429425b1889148e31
+SHA256: 27e1edd936f0eeee790c6cd7345e57650a58250bca0f164ccad1bfb0c3a42ff6
+Section: Tweaks
+Description: Adds homescreen customization like on iOS 18. Supports iOS 16.0-17.7 Dopamine, NathanLR Rootless.
+ Добавляет кастомизацию домашнего экрана как на iOS 18. Поддерживается iOS 16.0-17.7 Dopamine, NathanLR Rootless.
+Author: evgeniy
+Icon: https://iili.io/CSHi3ml.png
+Name: Homescreen18
+
 Package: com.ivintagelover.solidglassrl
 Version: 27.0
 Architecture: iphoneos-arm64
@@ -86,6 +104,25 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.png
 Name: TapticBoard
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
+
+Package: com.pkgfiles.harlemshakereborn
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: ceosppw
+Installed-Size: 8380
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.harlemshakereborn_arm64e.deb
+Size: 8567856
+MD5sum: 63dbc83bc698120ee5725781d181bb0c
+SHA1: 6e62b7aec2e593544c67a5f1933f7ab15a7fe363
+SHA256: 47b7df8babfcbd5b42813cb7b11e3e7b4a53e1f532db78783e45a23106c79b7c
+Section: Tweaks
+Description: HarlemShake Reborn now with ARLEKIN 40 000! tgk@pablofskyyy
+Author: tgk@pablofskyyy
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
+Name: HarlemShake Reborn with ARLEKIN 40 000
+Sileodepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
 
 Package: com.rpgfarm.a-font
 Version: 1.10.1
