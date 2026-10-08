@@ -226,6 +226,21 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
+Package: com.xanaxx55.pizda
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: xanaxx55
+Depends: mobilesubstrate
+Filename: ./debs/com.xanaxx55.pizda_1.0.0_iphoneos-arm64.deb
+Size: 2911828
+MD5sum: 66afb9ec2eddfb0a84c08d9ae6335dce
+SHA1: a937926992e0b3c0fd4428b780a7f10c8116bd48
+SHA256: 815623dfba98618ac4d41369c1c0c2b275cef2ee65039ec0bc2bd960b464de89
+Section: Themes
+Description: Custom icon pack
+Author: xanaxx55
+Name: pizda
+
 Package: com.yan.anitime
 Version: 1.0.3
 Architecture: iphoneos-arm64
