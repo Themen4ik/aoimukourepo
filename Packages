@@ -105,25 +105,6 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.tapticboard/icon.
 Name: TapticBoard
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.tapticboard.json
 
-Package: com.pkgfiles.harlemshakereborn
-Version: 1.1-2
-Architecture: iphoneos-arm64e
-Maintainer: ceosppw
-Installed-Size: 8380
-Depends: dev.theos.orion14, firmware (>= 14.0)
-Filename: ./debs/com.harlemshakereborn_arm64e.deb
-Size: 8567856
-MD5sum: 63dbc83bc698120ee5725781d181bb0c
-SHA1: 6e62b7aec2e593544c67a5f1933f7ab15a7fe363
-SHA256: 47b7df8babfcbd5b42813cb7b11e3e7b4a53e1f532db78783e45a23106c79b7c
-Section: Tweaks
-Description: HarlemShake Reborn now with ARLEKIN 40 000! tgk@pablofskyyy
-Author: tgk@pablofskyyy
-Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
-Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
-Name: HarlemShake Reborn with ARLEKIN 40 000
-Sileodepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
-
 Package: com.rpgfarm.a-font
 Version: 1.10.1
 Architecture: iphoneos-arm64
